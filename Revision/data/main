@@ -1,1 +1,5 @@
 
+Raw_IHS folder: the raw data downloaded from IHS. The production data for multiple wells on each pad is saved in one csv file.
+import folder: the csv files in this folder is imported into code to generate one csv file for each well.
+prod_df folder: each well has one csv file containing monthly production data.
+export folder: the RMSE, r-squared, MAE results are caculated and saved
