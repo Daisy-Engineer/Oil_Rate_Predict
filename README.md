@@ -2,4 +2,4 @@ This folder includes all the data and code for the oil rate prediction using thr
 
 The revision sub-folder has both code and production data for all 65 wells in the unconventional resources Denver-Julesburg (DJ) Basin.
 
-All the code files are written in Google Colab. The production data is saved in my Google Drive for easy access. 
+All the code files are written in Google Colab. The csv files of production data for all wells are saved in the Google Drive for easy access. 
